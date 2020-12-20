@@ -1,7 +1,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shitianshiwa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shitianshiwa&layout=compact&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shitianshiwa&layout=compact&hide=HTML,Java,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shitianshiwa&repo=baidu-tieba-userscript&show_owner=true)](https://github.com/shitianshiwa/baidu-tieba-userscript)
 &nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shitianshiwa&repo=guanjianci&show_owner=true)](https://github.com/shitianshiwa/guanjianci)
